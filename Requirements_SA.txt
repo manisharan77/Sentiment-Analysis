@@ -48,4 +48,4 @@ seaborn==0
 nltk==3.8.1
 scikit-learn==1.
 pandas==2
-numpy==1.2
+numpy==
