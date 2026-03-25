@@ -48,7 +48,7 @@ seaborn==0.12.2
 nltk==3.8.1
 scikit-learn==1.
 pandas==2
-numpy==1.24.3
+numpy==1.2
 matplotlib==3.7
 seaborn==0.12
 nltk==3.8.1
