@@ -50,4 +50,4 @@ scikit-learn==1.
 pandas==2
 numpy==1.2
 matplotlib==3.7
-seabor
+sea
