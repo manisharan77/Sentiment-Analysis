@@ -58,5 +58,3 @@ pandas==2.0.3
 numpy==1.24.3
 matplotlib==3.7.2
 seaborn==0.1
-
-nltk=
