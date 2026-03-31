@@ -8,5 +8,4 @@ seaborn==0.12.2
 nltk==3.8.1
 scikit-learn==1.3.0
 pandas==2.0.3
-numpy==1.24.3
-ma
+numpy==1.24.
