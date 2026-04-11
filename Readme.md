@@ -107,9 +107,7 @@ uhbbbbu
 jsjwbbsjsbb
 sksbss 
 uuyhkjjj
-sjj3b
-kakabss
-k
+
 ojbbbv
 jabbshs
 kzjhsbs
