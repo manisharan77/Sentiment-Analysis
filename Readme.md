@@ -90,5 +90,4 @@ python sentiment_analysis.py
 
 
 
-gvvv  jj
-gv
+gvvv 
