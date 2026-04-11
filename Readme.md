@@ -92,5 +92,4 @@ python sentiment_analysis.py
 
 gvvv  jj
 gvgbbbv
-hhgccg
-h
+hhgc
