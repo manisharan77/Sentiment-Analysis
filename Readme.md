@@ -91,5 +91,4 @@ python sentiment_analysis.py
 
 
 bjdhbsveusd
-business rhd
 
