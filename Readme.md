@@ -95,5 +95,5 @@ gsvvz  sz
 job s z s
 gdszxxbzb
 gcccccshh
-gsgsvsbsb
+gsgs
 zj
