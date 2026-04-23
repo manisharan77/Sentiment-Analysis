@@ -92,7 +92,6 @@ python sentiment_analysis.py
 
 
 gsvvz  sz
-job s z s
-gd
+job s
 
 zj
