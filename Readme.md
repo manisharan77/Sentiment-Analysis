@@ -91,5 +91,4 @@ python sentiment_analysis.py
 
 
 
-gsvvz
-zj
+gsv
