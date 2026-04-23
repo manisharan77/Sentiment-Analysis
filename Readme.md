@@ -86,9 +86,3 @@ python sentiment_analysis.py
 
 - LinkedIn: [linkedin.com/in/manisharan](https://linkedin.com/in/manisharan)
 - GitHub: [github.com/manisharan77](https://github.com/manisharan77)
-
-
-
-
-
-gsv
